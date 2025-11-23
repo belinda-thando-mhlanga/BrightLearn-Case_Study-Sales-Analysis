@@ -17,7 +17,7 @@ The main objectives of this analysis will provide an understanding to the follow
 5. Price elasticity of demand for 3 promotional periods
 6. Additional insights and metrics
 
- #   📊 FORMULA CHEAT SHEET
+ #   📊 Formulars sheet used
 **Metric - Formula**
 
 - **Price per Unit:** Sales ÷ Quantity  
