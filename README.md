@@ -17,6 +17,9 @@ The main objectives of this analysis will provide an understanding to the follow
 5. Price elasticity of demand for 3 promotional periods
 6. Additional insights and metrics
 
+ #   📊 FORMULA CHEAT SHEET
+MetricFormulaPrice per unitSales ÷ QuantityGross ProfitSales - CostGross Profit %((Sales - Cost) / Sales) × 100% Change((New - Old) / Old) × 100PED(% Change Qty) / (% Change Price)
+
 # 🧰 Tools & Technologies
 - SQL Snowflake for Coding
 - Excel for Data Visualisation
