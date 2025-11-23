@@ -18,7 +18,13 @@ The main objectives of this analysis will provide an understanding to the follow
 6. Additional insights and metrics
 
  #   📊 FORMULA CHEAT SHEET
-MetricFormulaPrice per unitSales ÷ QuantityGross ProfitSales - CostGross Profit %((Sales - Cost) / Sales) × 100% Change((New - Old) / Old) × 100PED(% Change Qty) / (% Change Price)
+**Metric - Formula**
+
+- **Price per Unit:** Sales ÷ Quantity  
+- **Gross Profit:** Sales – Cost  
+- **Gross Profit Percentage:** ((Sales - Cost) / Sales) × 100%  
+- **Change:** ((New - Old) / Old) × 100%  
+- **Price Elasticity of Demand (PED):** (% Change in Quantity) / (% Change in Price)
 
 # 🧰 Tools & Technologies
 - SQL Snowflake for Coding
