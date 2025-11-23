@@ -26,6 +26,16 @@ The main objectives of this analysis will provide an understanding to the follow
 - **Change:** ((New - Old) / Old) × 100%  
 - **Price Elasticity of Demand (PED):** (% Change in Quantity) / (% Change in Price)
 
+**PED INSIGHT LOGIC
+- If PED < -1 AND profit is positive:
+"This product performs BETTER when sold at promotional prices. The product is price-elastic (PED = [your number]), meaning demand increases significantly when prices are lowered."
+
+- If PED < -1 BUT profit is negative:
+"The product is price-elastic (PED = [your number]), but current promotional prices are TOO LOW. We're selling below cost. With better pricing (e.g., R33.50 instead of R31), promotions would be profitable."
+
+- If PED > -1:
+"This product performs WORSE at promotional prices. The product is price-inelastic (PED = [your number]), meaning demand doesn't increase much when prices drop."
+
 # 🧰 Tools & Technologies
 - SQL Snowflake for Coding
 - Excel for Data Visualisation
